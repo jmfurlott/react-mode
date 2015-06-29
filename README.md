@@ -1,5 +1,4 @@
 # react-mode
----
 
 (Not a emacs mode yet...)
 
@@ -10,7 +9,6 @@ The goal is that this will grow into an up-to-date mode for emacs as React conti
 Also, feel free to criticize my elisp as I am still learning it.
 
 ## Current functions
----
 
 ### react-bp
 
