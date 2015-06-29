@@ -17,5 +17,5 @@
 
   (insert "}")
 
-  (message "Created new component with name " name)
+  (message format("Created new component with %s" name))
 )
